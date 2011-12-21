@@ -12,7 +12,7 @@ class dwolla{
 
 		$this->my_dwolla_account = "000-000-0000";
           $this->destination_account = "0000=0000=000";
-		$this->destination_comment = "ForDanielHerda";
+		$this->destination_comment = "";
 		$this->pin = "1313";
 
 
